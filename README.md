@@ -38,7 +38,6 @@
 <h2>⚡️ &nbsp; Github Stats</h2>
 <a href="https://github.com/Saeid-Rezaei0">
   <img src="https://github-readme-stats.vercel.app/api?username=Saeid-Rezaei0&show_icons=true&theme=radical" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saeid-Rezaei0" />
 </a>
 
