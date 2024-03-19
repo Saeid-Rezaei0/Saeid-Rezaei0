@@ -19,8 +19,9 @@
 <br />
 <h2 align="left">social</h2>
 <a href="[https://instagram.com/rad_front](https://www.instagram.com/saeid_89999/)"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="[https://t.me/aminkhoy78](https://t.me/Saeidfrontend)"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+<a href="[https://t.me/aminkhoy78](https://t.me/Saeidfrontend)"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
+
 
 <a href="https://github.com/Saeid-Rezaei0" target="_blank" rel="noreferrer">
   <img src="https://github.com/fluidicon.png" width="32" height="32" />
