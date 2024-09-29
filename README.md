@@ -35,24 +35,25 @@ I am **Saeid Rezaei**, a Senior Front-End Developer with 2+ years of experience 
 
 
 ## 📈 Projects
-### 🛒 **Coffee Shop E-Commerce Platform**
-- **Tech Stack**: Next.js, CSS Modules, MongoDB
-- A responsive website designed for coffee sales. It includes an online chat system for customer support, ticketing for issue resolution, and a secure admin panel for managing the site.
-- You can visit my personal website at [https://palladium-garden.ir](https://palladium-garden.ir)
 
 ### 🍽️ **Palladium Garden Hall**
 - **Tech Stack**: React.js, React Bootstrap, React-leaflet
 - An interactive website for a garden hall featuring navigation maps for easy access and accordion menus for an enhanced user experience. The gallery page showcases the venue’s amenities effectively.
+-  You can visit my Palladium Garden Hall(تالار پالادیوم) website at [https://palladium-garden.ir](https://palladium-garden.ir)
+  
+### 🌐 **Personal Portfolio Website**
+- **Tech Stack**: Next.js, Tailwind CSS, MongoDB
+- A personal website designed to showcase my portfolio, skills, and latest projects. It includes details about my experience as a front-end developer and offers an easy way for clients to contact me for project collaborations.
+You can visit my personal (سایت شخصی) website at [saeidrezaei.netlify.app](https://saeidrezaei.netlify.app/) to explore my work or get in touch with me for project inquiries.
+
+### 🛒 **Coffee Shop E-Commerce Platform**
+- **Tech Stack**: Next.js, CSS Modules, MongoDB
+- A responsive website designed for coffee sales. It includes an online chat system for customer support, ticketing for issue resolution, and a secure admin panel for managing the site.
+
 
 ### 🛒 **KalaChi E-Commerce Platform**
 - **Tech Stack**: React.js, React Bootstrap, Sass, CSS Modules
 - A fully responsive e-commerce site with a custom design, featuring online chat, advanced product filtering, and easy search functionality. The site ensures excellent product accessibility and user experience.
-
-### 🌐 **Personal Portfolio Website**
-- **Tech Stack**: Next.js, Tailwind CSS, MongoDB
-- A personal website designed to showcase my portfolio, skills, and latest projects. It includes details about my experience as a front-end developer and offers an easy way for clients to contact me for project collaborations.
-
-You can visit my personal website at [saeidrezaei.netlify.app](https://saeidrezaei.netlify.app/) to explore my work or get in touch with me for project inquiries.
 
 ## 🛠️ Key Skills
 
