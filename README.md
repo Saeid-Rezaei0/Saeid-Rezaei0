@@ -47,8 +47,6 @@ I am **Saeid Rezaei**, a Senior Front-End Developer with 2+ years of experience 
 - **Tech Stack**: React.js, React Bootstrap, Sass, CSS Modules
 - A fully responsive e-commerce site with a custom design, featuring online chat, advanced product filtering, and easy search functionality. The site ensures excellent product accessibility and user experience.
 
----
-
 ### 🌐 **Personal Portfolio Website**
 - **Tech Stack**: Next.js, Tailwind CSS, MongoDB
 - A personal website designed to showcase my portfolio, skills, and latest projects. It includes details about my experience as a front-end developer and offers an easy way for clients to contact me for project collaborations.
