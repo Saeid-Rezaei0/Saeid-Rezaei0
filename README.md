@@ -38,6 +38,7 @@ I am **Saeid Rezaei**, a Senior Front-End Developer with 2+ years of experience 
 ### 🛒 **Coffee Shop E-Commerce Platform**
 - **Tech Stack**: Next.js, CSS Modules, MongoDB
 - A responsive website designed for coffee sales. It includes an online chat system for customer support, ticketing for issue resolution, and a secure admin panel for managing the site.
+- You can visit my personal website at [https://palladium-garden.ir](https://palladium-garden.ir)
 
 ### 🍽️ **Palladium Garden Hall**
 - **Tech Stack**: React.js, React Bootstrap, React-leaflet
