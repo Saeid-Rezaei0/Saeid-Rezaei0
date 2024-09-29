@@ -1,6 +1,6 @@
 # Saeid Rezaei - Front-End Developer ![Developer Icon](https://img.icons8.com/color/48/000000/developer.png)
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://saeidrezaei.netlify.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saeid-Rezaei0) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saeidfrontend) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeid.rezaei695@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://saeidrezaei.netlify.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saeid-Rezaei0) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saeid_89999) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saeidfrontend) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeid.rezaei695@gmail.com)
 
 
 ## 🚀 My Skills
