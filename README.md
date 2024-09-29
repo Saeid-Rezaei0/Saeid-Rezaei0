@@ -33,21 +33,6 @@ You can visit my personal  (سایت شخصی)  website at [saeidrezaei.netlify.
 - **Tech Stack**: React.js, React Bootstrap, Sass, CSS Modules
 - A fully responsive e-commerce site with a custom design, featuring online chat, advanced product filtering, and easy search functionality. The site ensures excellent product accessibility and user experience.
 
-## 🛠️ Key Skills
-
-- **React.js & Next.js**: Building dynamic, SEO-friendly websites.
-- **Responsive Design**: Crafting seamless mobile-first user experiences.
-- **State Management**: Mastery in Redux and Context API.
-- **JavaScript & TypeScript**: Writing robust and scalable front-end applications.
-- **UI/UX**: Deep understanding of creating visually stunning, user-friendly designs.
-- **Version Control**: Expert in Git & GitHub for collaborative development.
-- **API Integration**: Working with RESTful APIs and  SQL and MongoDB.
-- **Testing**: Experience with Jest, React Testing Library, and Cypress.
-- **Performance Optimization**: Techniques for optimizing website load times and enhancing user experiences.
-- **Authentication & Middleware**: Implementing authentication with Next-auth and Clerk and handling role-based redirection.
-
----
-
 ## 🚀 My Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -69,6 +54,21 @@ You can visit my personal  (سایت شخصی)  website at [saeidrezaei.netlify.
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Recharts-FF4500?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts"/>
 </div>
+
+---
+
+## 🛠️ Key Skills
+
+- **React.js & Next.js**: Building dynamic, SEO-friendly websites.
+- **Responsive Design**: Crafting seamless mobile-first user experiences.
+- **State Management**: Mastery in Redux and Context API.
+- **JavaScript & TypeScript**: Writing robust and scalable front-end applications.
+- **UI/UX**: Deep understanding of creating visually stunning, user-friendly designs.
+- **Version Control**: Expert in Git & GitHub for collaborative development.
+- **API Integration**: Working with RESTful APIs and  SQL and MongoDB.
+- **Testing**: Experience with Jest, React Testing Library, and Cypress.
+- **Performance Optimization**: Techniques for optimizing website load times and enhancing user experiences.
+- **Authentication & Middleware**: Implementing authentication with Next-auth and Clerk and handling role-based redirection.
 
 ---
 
