@@ -16,7 +16,7 @@
 ### 🎯 تخصص‌های کلیدی
 - **Front-end**: React.js, Next.js, TypeScript, Redux, Tailwind CSS
 - **Back-end**: Node.js, Express.js, RESTful APIs...
-- **Database**: MongoDB, SQL, Redis, 
+- **Database**: postgresql, MongoDB, SQL, Redis, 
 - **DevOps**: Docker, CI/CD, AWS
 - **Mobile**:  PWA
 - **CMS**: WordPress
