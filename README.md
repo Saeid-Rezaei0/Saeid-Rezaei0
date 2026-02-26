@@ -23,21 +23,24 @@
 - **Other Tools**: Git, GitHub, Figma
 
 ---
+---
 
-## 💼 تجربه کاری
+## 💼 Work Experience
 
-### 🏢 شرکت هوشمند پرداز (۱۴۰۲ - تاکنون)
-**توسعه‌دهنده فول‌استک**
-- توسعه و نگهداری سامانه‌های تحت وب با استفاده از React.js و Node.js
-- طراحی و پیاده‌سازی معماری میکروسرویس‌ها
-- بهینه‌سازی عملکرد و سئو برنامه‌های وب
-- همکاری با تیم طراحی برای ایجاد تجربه کاربری عالی
+### 🏢 Hooshmand Pardaz Company (2023 – Present)
+**Full-Stack Developer**
+- Develop and maintain web-based systems using **React.js** and **Node.js**
+- Design and implement **microservices architecture**
+- Optimize web application **performance** and **SEO**
+- Collaborate with the design team to deliver an excellent **user experience (UX)**
 
-### 🌐 استارتاپ (۱۴۰۰ - ۱۴۰۲)
-**توسعه‌دهنده Front-end**
-- توسعه اپلیکیشن‌های وب واکنش‌گرا برای مشتریان بین‌المللی
-- همکاری با تیم‌های بین‌المللی در پروژه‌های استارتاپی
-- پیاده‌سازی PWA برای بهبود تجربه موبایل
+### 🌐 Startup (2021 – 2023)
+**Front-End Developer**
+- Build responsive web applications for **international clients**
+- Collaborate with cross-functional, **international teams** on startup projects
+- Implement **Progressive Web Apps (PWA)** to enhance mobile experience
+
+--- 
 
 ---
 
@@ -68,76 +71,104 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
+# Hi, I'm a Senior Full-Stack Engineer (AI-Driven Products) 👋
 
-## 📈 پروژه‌های منتخب
-### 🌐 Blue Sky Engineering (استرالیا - blueskyeng.com.au)
-**توسعه‌دهنده فول‌استک** (BSE) برای کشور استرالیا
-ادرس: https://blueskyeng.com.au/
-- طراحی و توسعه وب سایت شرکتی برای شرکت مهندسی استرالیایی
-- پشتیبانی از فرمت‌های مختلف رزومه (PDF, DOC, DOCX)
-چت Real-time با امکان ارسال فایل
-سیستم امتیازدهی خودکار رزومه
-پنل مدیریت پیشرفته با آمار Real-time
-- پیاده‌سازی سیستم استخدام و مدیریت درخواست‌های کاری
-- تکنولوژی:  tailwind css , React.js, Node.js, mongodb, AWS , malter , jwt Nodemailer , TypeScript
-
-
-### 🌾 سامانه هاویر کشت (havirkesht.ir)
-آدرس https://havirkesht.ir/
-**توسعه دهنده فرانت اند \ PWA **
-- توسعه سامانه جامع مدیریت محصولات کشاورزی و پیمانکاری
-• مدیریت کامل محصولات کشاورزی (سموم، بذر، کود، تجهیزات)
-• پنل مدیریت پیشرفته با قابلیت آنالیز فروش
-• سبد خرید و پرداخت آنلاین
-• سیستم مدیریت مشتریان و پنل کاربری
-• پنل مدیریت محتوا و بلاگ تخصصی کشاورزی
-• طراحی Progressive Web App (PWA) برای دسترسی آسان
-• بهینه‌سازی شده برای موبایل و دسکتاپ
-- پیاده‌سازی پنل مدیریت پیشرفته با قابلیت گزارش‌گیری تحلیلی....
-- سامانه خیلی بزرگ با قابلیت های بسیار پیچیده  در سطح کشور
-- تکنولوژی:  Tailwind CSS React Formik Pwa Redux به صورت تیم ورک
-
-
-
-### 🐥 ماکیمال (makimal.ir)
-آدرس https://makimal.ir/landingpage
-**توسعه‌دهنده فرانت‌اند**
-- توسعه پلتفرم فروش آنلاین محصولات مرغداری
-- قابلیت gps به صورت انلاین برای دریافت موقعیت مکانی
-- بکه ملی تولیدکنندگان دان مرغ
-• سیستم توزیع هوشمند جوجه یکروزه
-• پنل مدیریت مرغداران و پرورش‌دهندگان
-• بازارگاه آنلاین محصولات طیور
-• سیستم نظارت بر کیفیت و سلامت
-• مدیریت لجستیک و حمل و نقل
-- دریافت داده های از کارخانه دار ها و تولید کنندگان دان برای ارزیابی و فروش ...
-- تکنولوژی: React.js, Redux, Material-UI , redux , TypeScript, Pwa...
-
-### 🏪 فروشگاه آنلاین کافی شاپ
-**توسعه‌دهنده فول‌استک**
-- طراحی و توسعه کامل پلتفرم E-Commerce برای فروش قهوه
-- پیاده‌سازی چت آنلاین و سیستم تیکتینگ
-- تکنولوژی: Next.js, MongoDB, Node.js 
-
-### 🌿 باغ تالار پالادیوم (palladium-garden.ir)
-**توسعه‌دهنده فرانت‌اند**
-- توسعه وب سایت interactive برای سالن مراسم
-- پیاده‌سازی نقشه و گالری تصاویر
-- تکنولوژی: React.js, React Bootstrap, Leaflet
-
-### 🛒 کالاچی (فروشگاه آنلاین)
-**توسعه‌دهنده فرانت‌اند**
-- توسعه پلتفرم E-Commerce با فیلترهای پیشرفته
-- پیاده‌سازی جستجوی هوشمند و سبد خرید
-- تکنولوژی: React.js, React Bootstrap, Sass
-
-### 🌐 وب سایت شخصی (saeidrezaei.netlify.app)
-**توسعه‌دهنده و دیزاینر**
-- طراحی و توسعه پورتفولیو شخصی
-- نمایش نمونه کارها و مهارت‌ها
-- تکنولوژی: Next.js, Tailwind CSS, Framer Motion
+I build **scalable, high-traffic, enterprise-grade web platforms** with a strong focus on **AI-assisted workflows, secure architectures, and measurable business outcomes**.  
+My core expertise is delivering **full-stack products end-to-end**: from system design and database modeling to CI/CD, performance optimization, and production monitoring.
 
 ---
+
+## 🔥 What I’m Specialized In
+- **Full-Stack Architecture** for large-scale products (Monolith → Modular / Microservices ready)
+- **AI-Driven Systems** (data pipelines, prediction/optimization modules, intelligent dashboards)
+- **Complex Multi-Panel Platforms** (Admin / Operator / User / Marketer) with **Dynamic RBAC**
+- **Payment & Financial Flows** (gateway integration, settlements, audit logs)
+- **Advanced Reporting & Analytics** (real-time metrics, time-range comparisons, KPI dashboards)
+- **Security & Reliability** (JWT/OAuth, rate limiting, role isolation, logs, recovery strategies)
+
+---
+
+## 🧠 Highlight Projects
+
+### 1) AI Full-Stack Platform (Enterprise Multi-Panel + Payment + Dynamic Access)
+**Stack:** Node.js · PostgreSQL · React · Tailwind · (Scalable architecture + clean modular design)  
+A professional product with **payment gateway**, multiple panels (**Admin / Operator / User / Marketer**), **dynamic role-based access control**, and **advanced reporting** with audit-ready logs.  
+🌐 https://chatgptool.ir
+
+**Key capabilities**
+- Dynamic permission system (RBAC/Policy-based)
+- Advanced reporting engine (filters, comparisons, export-ready)
+- Multi-tenant ready architecture + scalable API design
+- Transaction-safe flows + logging & observability mindset
+
+---
+
+### 2) Ardyar — Smart Flour Factory Management (AI Assisted Industrial System)
+A platform that covers **end-to-end flour factory processes** and improves accuracy using AI to reduce operational errors.  
+🌐 https://ardyar.ir/
+
+**Key modules**
+- **Executive Dashboards** with comparative charts across time ranges
+- **Production Optimization** (wheat consumption optimization, equipment wear reduction, best production recipes)
+- **Warehouse & Inventory Control** (purchases, stock, consumption, cost optimization)
+- **Lab Support & Quality Improvement** (trend analysis, early issue prevention, future prediction)
+- **Technical Support** (equipment identity, maintenance alerts, parts replacement timing)
+- **Commerce & Sales Intelligence** (smart suggestions for product sales & distribution)
+
+---
+
+### 3) Frynet — Fiber Internet Services Platform
+A high-performance service presentation and customer-facing platform for fiber internet offerings.  
+🌐 https://frynet.ir/  
+Designed to clearly communicate plans and SLAs, optimized for conversion and fast performance.
+
+---
+
+## 📈 Selected Work (International / Large Systems)
+- **Blue Sky Engineering (AU)** — corporate platform + hiring system with real-time admin analytics  
+  🌐 https://blueskyeng.com.au/
+- **HavirKesht** — national-scale agriculture platform (PWA) with advanced admin analytics  
+  🌐 https://havirkesht.ir/
+- **Makimal** — poultry e-commerce + logistics, GPS features, and management panels  
+  🌐 https://makimal.ir/landingpage
+- **Sapna Delfan** — bilingual corporate product presentation with live pricing  
+  🌐 https://www.sapnadelfan.com/
+
+---
+
+## 🧰 Tech Stack
+**Backend:** Node.js · TypeScript · REST/GraphQL · Auth (JWT/OAuth) · PostgreSQL · MongoDB  
+**Frontend:** React · Next.js · Tailwind · Redux · PWA · Formik · UI Architecture  
+**Cloud/DevOps:** AWS · CI/CD · Docker · Monitoring & Logging  
+**Engineering:** System Design · Performance Tuning · Clean Architecture · Scalable Patterns
+
+---
+
+## 🤝 Let’s Build
+If you're looking for someone who can **own product delivery**, design **secure scalable systems**, and ship **production-grade AI-powered platforms**, let’s connect.
+
+# سلام! من توسعه‌دهنده ارشد فول‌استک (AI-Driven) هستم 👋
+
+روی طراحی و توسعه **محصولات سازمانی مقیاس‌پذیر** تمرکز دارم؛ از **معماری و دیتابیس** تا **پیاده‌سازی پنل‌های چندنقشی، امنیت، پرداخت و گزارش‌گیری تحلیلی**. خروجی کارم همیشه **Production-Ready** و مناسب رشد محصول است.
+
+## 🚀 پروژه‌های منتخب
+- **پلتفرم فول‌استک مبتنی بر هوش مصنوعی** (Node.js · PostgreSQL · React · Tailwind)  
+  دارای **درگاه پرداخت**، پنل‌های **کاربر/ادمین/اپراتور/بازاریاب**، **سطح دسترسی داینامیک (RBAC)** و **گزارش‌گیری حرفه‌ای**  
+  🌐 https://chatgptool.ir
+
+- **سامانه آردیار (Ardyar)** — پوشش کامل فرآیندهای کارخانه‌های آرد با کمک AI  
+  داشبوردهای مدیریتی، بهینه‌سازی تولید، مدیریت انبار، پشتیبانی آزمایشگاه و نگهداری تجهیزات  
+  🌐 https://ardyar.ir
+
+- **Frynet** — پلتفرم معرفی و ارائه خدمات اینترنت فیبر نوری (خانگی/سازمانی) با تمرکز بر عملکرد و تجربه کاربری  
+  🌐 https://frynet.ir
+
+## 🧰 مهارت‌ها
+Node.js / TypeScript · PostgreSQL · React / Next.js · Tailwind · REST API · JWT/OAuth · PWA · Redux · Docker · CI/CD · AWS
+
+📩 برای همکاری روی پروژه‌های سازمانی و محصول‌محور در ارتباط باشید.
+---
+
 
 ## 📊 آمار GitHub
 
