@@ -70,11 +70,10 @@ I'm a **Senior Full‑Stack Developer** with **5 years of experience** architect
 
 ### 2) WebinarMan – Live Webinar Engine with Exams, SMS, Custom Domains  
 **Role:** Backend Lead (Node.js, PostgreSQL, Redis, WebSocket/Socket.io)  
-- Handles **80,000+ concurrent users** (quizzes, polls, real‑time chat)  
-- Instructor subscription plans, custom domain/subdomain registration  
-- Dynamic SMS engine (admin or instructor‑controlled)  
-- Online exam system with auto‑grading (MCQ) + descriptive manual grading  
-- Multi‑role panels (Accountant, Marketer, Supporter, Admin)  
+- Architected and delivered an enterprise, multi‑tenant live webinar platform with a real‑time engine (Node.js, Socket.IO, Redis), reliably supporting 100,000+ concurrent users across live quizzes, polls, and chat.  
+- Slashed database load by 95% through intelligent caching, batch synchronization via Cron Jobs, Redis Pub/Sub, and horizontal scaling with PM2 (cluster mode) behind an Nginx reverse proxy.  
+- Engineered the complete backend ecosystem: instructor subscription plans, Kanban CRM, discount codes and marketing commissions, secure payment integrations, and a dynamic SMS engine with admin/instructor‑controlled triggers.  
+- Implemented custom domain/subdomain provisioning, a hybrid exam module (auto‑graded MCQs and descriptive manual grading), and multi‑role dashboards (Admin, Accountant, Marketer, Supporter), all delivered through scalable, maintainable RESTful APIs.  
 🌐 [webinareman.ir](https://webinareman.ir) – *Backend only*
 
 ### 3) HavirKesht – National‑Scale Agriculture Platform (PWA)  
