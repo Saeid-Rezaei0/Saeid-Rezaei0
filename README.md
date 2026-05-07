@@ -69,7 +69,7 @@ I'm a **Senior Full‑Stack Developer** with **5 years of experience** architect
 🌐 [chatgptool.ir](https://chatgptool.ir) – *Backend only*
 
 ### 2) WebinarMan – Live Webinar Engine with Exams, SMS, Custom Domains  
-**Role:** Backend Lead (Node.js, PostgreSQL, Redis, WebSocket/Socket.io)  
+**Role:** senior Backend (Node.js, PostgreSQL, Redis, WebSocket/Socket.io)  
 - Architected and delivered an enterprise, multi‑tenant live webinar platform with a real‑time engine (Node.js, Socket.IO, Redis), reliably supporting 100,000+ concurrent users across live quizzes, polls, and chat.  
 - Slashed database load by 95% through intelligent caching, batch synchronization via Cron Jobs, Redis Pub/Sub, and horizontal scaling with PM2 (cluster mode) behind an Nginx reverse proxy.  
 - Engineered the complete backend ecosystem: instructor subscription plans, Kanban CRM, discount codes and marketing commissions, secure payment integrations, and a dynamic SMS engine with admin/instructor‑controlled triggers.  
