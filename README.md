@@ -80,19 +80,19 @@ I'm a **Senior Full‑Stack Developer** with **5 years of experience** architect
 **Role:** Frontend Lead (React.js, Redux, Tailwind, PWA)  
 - Built a high‑traffic, offline‑capable PWA for farmers and agribusiness  
 - Advanced admin dashboards with real‑time analytics and geolocation features  
-🌐 [havirkesht.ir](https://havirkesht.ir)
+🌐 [havirkesht.ir](https://havirkesht.ir)  FrontEnd only
 
 ### 4) Blue Sky Engineering (Australia) – Corporate + Hiring System  
 **Role:** Full‑Stack Developer (React + Node.js)  
 - Developed real‑time admin analytics dashboard for recruitment pipeline  
 - Integrated secure authentication (JWT) and role‑based access  
-🌐 [blueskyeng.com.au](https://blueskyeng.com.au)
+🌐 [blueskyeng.com.au](https://blueskyeng.com.au) Full‑Stack
 
 ### 5) Frynet – Fiber Internet Services Platform  
 **Role:** Frontend Developer (React.js, Tailwind)  
 - Designed high‑performance, conversion‑optimized landing pages and service plans  
 - Implemented responsive UI with fast Lighthouse scores  
-🌐 [frynet.ir](https://frynet.ir)
+🌐 [frynet.ir](https://frynet.ir) FrontEnd only
 
 ---
 
