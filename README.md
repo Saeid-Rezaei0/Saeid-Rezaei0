@@ -1,4 +1,4 @@
-# Saeid Rezaei —  Software Engineer | Frontend & Ai
+# Saeid Rezaei —  Software Engineer | web(Frontend) & Ai
 
 Software Engineer with **5+ years of experience** designing and delivering scalable web, mobile, and SaaS platforms.
 
