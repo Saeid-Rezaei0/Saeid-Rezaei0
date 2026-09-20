@@ -1,4 +1,4 @@
-# Saeid Rezaei — Senior Software Engineer | Frontend & Web
+# Saeid Rezaei —  Software Engineer | Frontend & Web
 
 Software Engineer with **5+ years of experience** designing and delivering scalable web, mobile, and SaaS platforms.
 
